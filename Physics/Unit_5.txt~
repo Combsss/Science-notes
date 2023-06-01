@@ -1,0 +1,84 @@
+				                                                      Sissi Tu	
+
+       				      MAGNETISM NOTES		      
+Table of contents
+1. Magnetism 
+2. Electromagnetism 
+  2.1 Electromagnetic coils
+  2.2 Solenoids 
+3. Induced current
+  3.1 Motors and applications
+4. Hydro transmission lines
+-------------------------------------------------------------------------------------------------
+       				        1. MAGNETISM 
+
+Magnetics fields: Tool used to describe distrubution of magnetic force in the space around a 
+			magnetic object (We call the diagrams B-fields)
+			
+Traits of magnetic fields
+	- Any two abritrary B-fields will never intersect
+	- B-fields flow into the south and out the north in a magnet
+	- Different poles attract, Identical poles repell
+	
+Magnetic permeability: how much a ferromagnetic material increases the magnetic field when placed inside a thing. 
+
+Domain theory: All magnets are made up of smaller and rotatable magnets (Dipoles)
+		-> Large dipoles are created from smaller ones
+		-> The magnetic field is also called a magnetic domain
+Implications of domain theory
+ Magnetic induction
+ -> Any ferromagnetic objects's magnetism increases the more dipoles face the same direction
+ Breaking a magnet
+ -> snapping a magnet in half will yield two magnets
+ Demagnetization
+ -> Dropping or heating a magnet can cause dipoles to become misaligned
+ Magnetic saturation
+ -> Any ferromagnetic material has a maxiumum magnetic permeability 
+-------------------------------------------------------------------------------------------------
+	                            2. ELECTROMAGNETISM
+RIGHT HAND RULE #1 : Magnetic fields around a conductor
+derived from Oersted's principle: Conductors produce rings of magnetic energy when current is ran through them
+
+rule: make thumbs up
+	thumb is direction of current flow
+	fingers are direction of magnetic field
+	
+RIGHT HAND RULE #2: Magnetic fields around a solenoid
+derived from thin air
+
+Calculations >>> 
+1. Magnetic field strenght of straight conductor: B = (μ)(I/2𝝅r) 
+r = perpendicular distance from conductor
+μ = magnetic permeability of substance
+
+2. Magnetic field strenght of center of current loop: B = (μ)(NI/2r)
+r = radius of loop
+N = number of loops
+
+3. Magnetic field of solenoid: B = (μ)(NI/L)
+L = length of solenoid
+	
+------------------------------------------------------------------------------------------------
+				3. INDUCED CURRENTS 
+				
+Faraday's law of electromagnetic induction: A magnatic field that is moving or changing intensity near a conductor induces current flow in the conductor
+
+Lenz's law: If faraday's law occurs in a coil, the direction of the induced current is opposed to the change that produced it
+
+		            3.1 MOTORS AND APPLICATIONS
+
+The motor principle: Two magnetic fieds interact with one another to produce a force. 
+ -> RIGHT HAND RULE: 3 
+	Thumb = direction of current
+	Palm = direction of force
+	Fingers = direction of magnetic field 
+
+AC vs DC motors: DC needs SPLIT RING
+		 AC needs SLIP RING 
+				
+------------------------------------------------------------------------------------------------
+				4. HYDRO BILLS 
+				
+	
+
+  

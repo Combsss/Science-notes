@@ -1,0 +1,104 @@
+				                                                      Sissi Tu	
+
+       				      ENERGY NOTES
+       				      
+Table of contents
+1. Work and Energy
+2. Power and Efficiency 
+3. Conservation of mechanical energy
+   3.1 Three laws of Therodynamics 
+4. Thermal energy
+   4.1 Latent heat
+   4.2 Thermal energy transfer 
+5. Nuclear energy
+   5.1 Mass energy equivalence
+   5.2 Half life and radioactivity
+
+-------------------------------------------------------------------------------------------------
+   			            1. WORK AND ENERGY
+   			            
+Work: Conversion between forms of energy (J)
+Energy: The ability convert between forms of itself (J)
+
+Potential vs Kinetic energy -> Stored vs In use
+
+Gravitational potential energy: Potential energy of an objected in a gravitational field 
+Mechanical kinetic energy: Energy of an object in motion
+
+Formulae:
+0. W = ΔE
+1. W = FΔdcosθ
+2. W = mgΔh = E(gravitational)
+3. E(kinetic) = 1/2(mv^2)
+-------------------------------------------------------------------------------------------------
+       				 2. POWER AND EFFICIENCY	
+       				 
+Power: Rate at which work is done 
+	-> Measured in WATTS (W)
+Horsepower: Unit to measure power in which a horse's power output is equal to 1 HP
+Efficiency: Ratio of energy outputed to energy used
+
+Formulas
+1. P = ΔE/Δt
+2. W = 1J/1s
+3. 1 HP = 746 HP
+4. %Efficiency = (Eout/Ein)(100%) = (Pout/Pin)(100%) 
+-------------------------------------------------------------------------------------------------
+			  3. CONSERVATION OF MECHANICAL ENERGY
+Three laws of Therodynamics
+1. Energy cannot be created nor destroyed
+2. Heat is always trying to reach a therodynamic equilibrium 
+3. The temperature of a system cannot reach absolute zero (-273.15*C)
+
+This implies
+
+E(total) = E(kinetic) + E(potential) -> conservation of mechanical energy
+The usable formula is: Ek1 + Eg1 = Ek2 + Eg2
+-------------------------------------------------------------------------------------------------
+			           4. THERMAL ENERGY
+
+Kinetic Molecular theory
+-> All matter is made up of atoms, which vibrate at a speed depending on the thermal temperature
+	(Brownian motion) 
+	
+Kinetic Molecular theory (For gases)
+-> Gases are made up of particles with no defined volume but with a defined mass. 
+-> Gas particles undergo no intermolecular attractions or repulsions. 
+-> Gas particles are in continuous, random motion.
+-> Collisions between gas particles are completely elastic.
+-> The average kinetic energy is the same for all gases at a given temperature, regardless of the identity of the gas. 
+
+Methods of heat transfer: Conduction, Convection, Radiation
+
+The amount of energy needed to change the temperature of each particular material is different
+-> This is called the SPECIFIC HEAT CAPACITY
+
+*Conservation of energy applies for thermal energy as well
+
+Formulae: 
+1. Temerature scales: C = K-273 = (5/9)(F-32)
+2. E(heat) = mcΔT
+3. E(heat gained) + E(Heat lost) = 0.000J
+
+				4.1 LATENT HEAT
+				
+Main idea: Specific latent heat (Amount of energy required to change states)
+- Different value for each state
+1. Fusion (Melt of freeze)
+ -> Eh = MLf
+2. Vaporization (Vaporise or condense)
+ -> Eh = MLv
+ 			4.2 THERMAL ENERGY TRANSFER 
+ 			
+ 	A calorimeter is used to measure the amount of calories in food
+				
+-------------------------------------------------------------------------------------------------
+
+
+  
+
+			      
+			         
+		                                                        				    	       
+
+

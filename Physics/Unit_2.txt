@@ -1,0 +1,83 @@
+				                                                      Sissi Tu	
+
+       				      DYNAMICS NOTES
+       				      
+Table of contents
+1. Vectors
+2. Solving for vectors
+  2.1 Component method
+  2.2 Trigonometric method
+3. Relative velocity
+4. Projectile motion
+5. Newton's laws
+   5.1 Freebody diagrams
+   5.2 Friction + Tension 
+   5.3 Multiple objects
+   5.4 Inclined planes
+6. Gravity    
+-------------------------------------------------------------------------------------------------
+       				        1. VECTORS	
+A vector can be used to represent DISPLACEMENT(d) or VELOCITY(v)
+-> These vectors can be decomposed into two seperate vectors, for the x and y dimension
+
+d -> Δdₓ, Δdᵧ   (Total displacement -> Displacement in x,  Displacement in y)
+v -> Δvₓ, Δvᵧ   (Total velocity -> Velocity in x direction, Velocity in y direction)       
+ 	      
+*Δvₓ and Δvᵧ are independent of each other: Ex, throwing a ball at vₓ will not affect vᵧ
+  					
+ -------------------------------------------------------------------------------------------------
+  				2. SOLVING FOR VECTORS      
+ 
+2.1 Component method
+-> General idea: Deconstruct each vector into it's x and y vectors, then sum up all the x and ys
+		 To obtain a total x and total y vector
+		 -> The final vectors are arranged into a right angled triangle to solve for 
+		 the resultant vector
+		
+2.2 Trigonometric method
+-> Use trig identities and Cosin/Sin law to solve for the resultant vector
+(Most useful when diagram is already triangular)
+
+-------------------------------------------------------------------------------------------------
+			           3. RELATIVE VELOCITY
+For two objects A and B with velocities Va and Vb from a common stationary frame of reference 
+
+The velocity of the object A relative to the object B is: Vab = Va - Vb
+The velocity of the object B relative to that of object a is: Vba = Vb - Va
+Therefore, Vab = -Vba
+
+Assuming the same two objects, if the frame of reference is set on either A or B, we have
+(Frame of reference on A) -> Va = 0, Vb = Va-Vb
+(Frame of reference on B) -> Vb = 0, Va = Vb-Va
+
+*Relative velocity questions are solved by setting up a vector diagram 
+-> Usually in the shape of a triangle with a missing side (The resultant vector)
+and solving for the resultant vector using pythagorean theorem, or cos/sin law
+
+-------------------------------------------------------------------------------------------------
+			           4. Projectile motion
+Most important concept: Law of orthagonal vectors
+-> Orthagonal vectors are independant of each other
+
+Therefore we can solve for projectile motion by solving for the x and y dimensions SEPERATELY 
+and using kinematic equations
+
+(Basically a combination of everything learnt up till now) 
+
+Projectile motion can get complicated, so a step by step is helpful
+
+
+1. Resolve or break the motion into horizontal and vertical components along the x- and y-axes
+2. Solve for the unknowns in the two separate motions—one horizontal and one vertical.2. 
+3. Recombine the two motions to find the total displacement s and velocity v
+4. Write a therefore statement and check your sig figs so you don't lose communication marks!
+
+
+
+  
+
+			      
+			         
+		                                                        				    	       
+
+
